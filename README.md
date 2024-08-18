@@ -18,14 +18,6 @@
 
 </div>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/prathamesh_0222" target="blank"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="prathamesh_0222"  /></a>
-<a href="https://www.leetcode.com/prathamesh_022" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="prathamesh_022" /></a>
-  
-</p>
-
-
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
