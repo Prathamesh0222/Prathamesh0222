@@ -10,9 +10,7 @@
 
 <div align="center">
 
-🔭 I’m currently working on **Wallet**
-
-🌱 I’m currently learning **Next.js**
+🌱 I’m currently learning **Full Stack | Web 3**
 
 👯 I’m looking to collaborate on **Full Stack Projects**
 
